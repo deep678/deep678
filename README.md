@@ -441,7 +441,7 @@ System Design
 
 ### Backend Software Engineer · Songdew Media Pvt. Ltd.
 
-**July 2023 — Present**
+**July 2023 - Present**
 
 - Designed scalable backend architectures supporting **10K+ active users**
 - Built **25+ production REST APIs** using Django & FastAPI
@@ -468,5 +468,51 @@ System Design
 - Exploring practical AI solutions
 - Improving developer workflows through automation
 - Learning modern cloud-native architectures
+
+---
+---
+
+# Education
+
+| Degree | Institute | Year |
+|----------|-----------|------|
+| Master of Computer Applications (MCA) | Meerut Institute of Engineering & Technology | 2021 |
+| Bachelor of Computer Applications (BCA) | Meerut Institute of Engineering & Technology | 2018 |
+
+---
+
+# Let's Connect
+
+<div align="center">
+
+<a href="mailto:deepyadav0305@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/deep678">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/pradeep-yadav-b72390227">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://pradeep-yadav-portfolio.netlify.app">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### Building reliable backend systems with clean architecture, scalable APIs, and practical AI solutions.
+
+<br>
+
+**Python • Django • FastAPI • PostgreSQL • AWS • Docker • LangChain • OpenAI**
+
+</div>
 
 ---
