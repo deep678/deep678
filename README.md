@@ -435,3 +435,38 @@ System Design
 - Performance-first software
 
 ---
+---
+
+# Experience
+
+### Backend Software Engineer · Songdew Media Pvt. Ltd.
+
+**July 2023 — Present**
+
+- Designed scalable backend architectures supporting **10K+ active users**
+- Built **25+ production REST APIs** using Django & FastAPI
+- Optimized PostgreSQL queries, reducing response time by **40%**
+- Developed AI-powered internal tools using **OpenAI, LangChain & RAG**
+- Automated asynchronous workflows with **Celery, Redis & AWS S3**
+
+---
+
+# Learning & Exploring
+
+- Event-Driven Architecture
+- Kubernetes
+- AI Agents
+- Distributed Systems
+- Advanced System Design
+- LLM Infrastructure
+
+---
+
+# Beyond Code
+
+- Building backend systems that scale reliably
+- Exploring practical AI solutions
+- Improving developer workflows through automation
+- Learning modern cloud-native architectures
+
+---
