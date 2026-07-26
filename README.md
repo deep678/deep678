@@ -189,3 +189,249 @@ Developer Productivity
 ```
 Backend Engineer • AI Developer • Python • Django • FastAPI • PostgreSQL • AWS
 ```
+---
+
+# Featured Engineering Systems
+
+Rather than building applications, I focus on engineering scalable backend systems that solve complex business problems.
+
+<br>
+
+<table>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## AI Document Intelligence
+
+Enterprise document understanding powered by Large Language Models.
+
+**Highlights**
+
+- Semantic Search
+- RAG Pipelines
+- LangChain Integration
+- OpenAI API
+- ChromaDB
+- FastAPI
+
+**Focus**
+
+Intelligent knowledge retrieval with contextual AI responses.
+
+</td>
+
+<td width="50%" valign="top">
+
+## Revenue Distribution Engine
+
+Automated royalty and payment processing platform.
+
+**Highlights**
+
+- ACID Transactions
+- Split Payments
+- PostgreSQL
+- Financial Automation
+- High Performance APIs
+
+**Focus**
+
+Reliable payment distribution for thousands of daily transactions.
+
+</td>
+
+</tr>
+
+<tr>
+
+<td valign="top">
+
+## AI Music Validation Platform
+
+Automated quality assurance pipeline for music distribution.
+
+**Highlights**
+
+- Metadata Validation
+- Lyrics Analysis
+- AI Quality Checks
+- Workflow Automation
+- Content Verification
+
+**Focus**
+
+Reducing manual review while improving content accuracy.
+
+</td>
+
+<td valign="top">
+
+## Distribution Workflow Engine
+
+Backend workflow system for digital media publishing.
+
+**Highlights**
+
+- State Management
+- Celery Workers
+- AWS S3
+- Background Processing
+- Queue Management
+
+**Focus**
+
+Managing complex publishing workflows at scale.
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# Technical Expertise
+
+<table>
+
+<tr>
+
+<td width="33%" align="center">
+
+### Backend
+
+Python
+
+Django
+
+Django REST Framework
+
+FastAPI
+
+Flask
+
+REST APIs
+
+</td>
+
+<td width="33%" align="center">
+
+### AI & Automation
+
+OpenAI
+
+LangChain
+
+Prompt Engineering
+
+RAG
+
+Semantic Search
+
+Vector Databases
+
+</td>
+
+<td width="33%" align="center">
+
+### Cloud
+
+AWS
+
+Docker
+
+Linux
+
+GitHub Actions
+
+Nginx
+
+Redis
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# Engineering Capabilities
+
+```text
+Backend Architecture
+█████████████████████████████████
+
+REST API Development
+██████████████████████████████████████
+
+Database Optimization
+████████████████████████████████
+
+Distributed Systems
+█████████████████████████████
+
+Artificial Intelligence
+██████████████████████████████████
+
+Cloud Infrastructure
+████████████████████████████
+
+Performance Optimization
+███████████████████████████████
+
+System Design
+██████████████████████████████
+```
+
+---
+
+# Production Impact
+
+| Area | Result |
+|-------|--------|
+| REST APIs Developed | 25+ |
+| Concurrent Users Supported | 10,000+ |
+| API Latency Improvement | 40% |
+| Database Performance | 45% Faster |
+| Manual QA Reduced | 80% |
+| Weekly Manual Work Saved | 20+ Hours |
+| Critical Test Coverage | 85%+ |
+
+---
+
+# Technology Ecosystem
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,postgres,mysql,redis,docker,aws,linux,git,github,vscode&perline=7"/>
+
+</div>
+
+---
+
+# What I Enjoy Building
+
+- High-performance backend systems
+
+- Production-grade REST APIs
+
+- AI-powered enterprise applications
+
+- Scalable microservices
+
+- Workflow automation
+
+- Distributed architectures
+
+- Cloud-native backend platforms
+
+- Intelligent search systems
+
+- Financial automation engines
+
+- Performance-first software
+
+---
