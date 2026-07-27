@@ -8,6 +8,12 @@ Designing scalable backend architectures, AI-powered systems and production-grad
 
 <br>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=deep678&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+</p>
+
+<br>
+
 <a href="mailto:deepyadav0305@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
 </a>
@@ -292,6 +298,19 @@ Managing complex publishing workflows at scale.
 
 ---
 
+# Open Source Repositories
+
+### 🌐 Web & Middleware
+- **[test_custom_middlewere](https://github.com/deep678/test_custom_middlewere)**: A project demonstrating the use and implementation of custom middleware.
+- **[website-test](https://github.com/deep678/website-test)**: A **Python**-based repository used for testing web information.
+- **[website](https://github.com/deep678/website)**: A demo app originally built for a Git tutorial.
+
+### 🧪 Experiments & Learning
+- **[test_projects](https://github.com/deep678/test_projects)** & **[test](https://github.com/deep678/test)**: Repositories dedicated to testing ideas and code snippets.
+- **[git-in-one-video](https://github.com/deep678/git-in-one-video)**: My very first Git repository! 🌱
+
+---
+
 # Technical Expertise
 
 <table>
@@ -433,6 +452,19 @@ System Design
 - Financial automation engines
 
 - Performance-first software
+
+---
+
+# GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=deep678&show_icons=true&theme=transparent&hide_border=true&title_color=blueviolet" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deep678&theme=transparent&hide_border=true&title_color=blueviolet" width="48%" />
+</div>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deep678&layout=compact&theme=transparent&hide_border=true&title_color=blueviolet" width="50%" />
+</p>
 
 ---
 ---
