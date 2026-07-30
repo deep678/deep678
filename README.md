@@ -101,7 +101,8 @@ Gurugram, India
 </td>
 <td align="center">
 <strong>Development Tools</strong><br><br>
-<img src="https://skillicons.dev/icons?i=github,vscode,postman" alt="Dev Tools" />
+<img src="https://skillicons.dev/icons?i=github,vscode,postman,pycharm" alt="Dev Tools" /><br><br>
+<img src="https://img.shields.io/badge/AI_Agent-Antigravity-8A2BE2?style=flat-square&logo=openai&logoColor=white" alt="Antigravity" />
 </td>
 </tr>
 </table>
@@ -226,7 +227,7 @@ State Management • Celery Workers • AWS S3 • Background Processing • Que
 ## 📊 Technology Ecosystem & GitHub Stats
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,postgres,mysql,redis,docker,aws,linux,git,github,vscode&perline=10" alt="Tech Ecosystem" />
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,postgres,mysql,redis,docker,aws,linux,git,github,vscode,pycharm&perline=10" alt="Tech Ecosystem" />
 </div>
 
 <br>
