@@ -182,7 +182,7 @@ Tools
 
 ---
 
-## Philosophy
+## 🧠 Philosophy
 
 > Build software that is reliable, scalable, maintainable, and easy to evolve.
 
