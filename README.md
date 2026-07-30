@@ -232,13 +232,12 @@ State Management • Celery Workers • AWS S3 • Background Processing • Que
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=deep678&show_icons=true&theme=transparent&hide_border=true&title_color=blueviolet" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deep678&theme=transparent&hide_border=true&title_color=blueviolet" width="48%" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=deep678&show_icons=true&theme=transparent&hide_border=true&title_color=blueviolet" alt="GitHub Stats" />
+  <br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deep678&theme=transparent&hide_border=true&title_color=blueviolet" alt="GitHub Streak" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deep678&layout=compact&theme=transparent&hide_border=true&title_color=blueviolet" alt="Top Languages" />
 </div>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deep678&layout=compact&theme=transparent&hide_border=true&title_color=blueviolet" width="50%" alt="Top Languages" />
-</p>
 
 ---
 
