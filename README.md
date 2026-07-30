@@ -307,7 +307,7 @@ Managing complex publishing workflows at scale.
 
 ---
 
-# Technical Expertise
+# ⚙️ Technical Expertise
 
 <table>
 
