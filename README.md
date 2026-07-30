@@ -2,7 +2,7 @@
 
 # 👨‍💻 Pradeep Yadav
 
-### Python Backend Developer | Django • DRF • FastAPI | Generative AI | Building scalable APIs with clean, maintainable code.
+### Python & Django Expert · 3+ Years Experience | Generative AI | Building scalable APIs with clean, maintainable code.
 
 <br>
 
@@ -18,6 +18,12 @@
 
 <a href="mailto:deepyadav0305@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://wa.me/910000000000">
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
+<a href="tel:+910000000000">
+<img src="https://img.shields.io/badge/Phone_Call-34B7F1?style=for-the-badge&logo=telephone&logoColor=white"/>
 </a>
 <a href="https://github.com/deep678">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
