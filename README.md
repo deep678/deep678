@@ -101,8 +101,17 @@ Gurugram, India
 </td>
 <td align="center">
 <strong>Development Tools</strong><br><br>
-<img src="https://skillicons.dev/icons?i=github,vscode,postman,pycharm" alt="Dev Tools" /><br><br>
-<img src="https://img.shields.io/badge/AI_Agent-Antigravity-8A2BE2?style=flat-square&logo=openai&logoColor=white" alt="Antigravity" />
+<img src="https://skillicons.dev/icons?i=github,vscode,postman,pycharm" alt="Dev Tools" />
+</td>
+</tr>
+<tr>
+<td align="center" colspan="2">
+<strong>AI Tools & Agents</strong><br><br>
+<img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=flat-square&logo=openai&logoColor=white" alt="ChatGPT" />
+<img src="https://img.shields.io/badge/GitHub%20Copilot-181717?style=flat-square&logo=githubcopilot&logoColor=white" alt="GitHub Copilot" />
+<img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini" />
+<img src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logoColor=white" alt="Cursor" />
+<img src="https://img.shields.io/badge/Antigravity-8A2BE2?style=flat-square&logo=openai&logoColor=white" alt="Antigravity" />
 </td>
 </tr>
 </table>
