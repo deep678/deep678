@@ -251,3 +251,5 @@ State Management • Celery Workers • AWS S3 • Background Processing • Que
 **Python • Django • FastAPI • PostgreSQL • AWS • Docker • LangChain • OpenAI**
 
 </div>
+
+<!-- profile enhancement part 1 -->
