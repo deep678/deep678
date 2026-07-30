@@ -50,7 +50,7 @@ Experienced in designing high-performance REST APIs, distributed architectures, 
 
 <td width="50%" valign="top">
 
-### Current Role
+### 💼 Current Role
 
 Backend Software Engineer
 
