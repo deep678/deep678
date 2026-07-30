@@ -193,7 +193,7 @@ Backend Engineer • AI Developer • Python • Django • FastAPI • PostgreS
 ```
 ---
 
-# Featured Engineering Systems
+# 🏗️ Featured Engineering Systems
 
 Rather than building applications, I focus on engineering scalable backend systems that solve complex business problems.
 
