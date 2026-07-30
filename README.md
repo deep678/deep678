@@ -58,7 +58,7 @@ Gurugram, India
 
 ### 🎯 Focus
 - Scalable Backend Systems
-- Artificial Intelligence
+- Artificial Intelligence & OCR
 - System Design
 - Cloud Infrastructure
 
@@ -85,23 +85,23 @@ Gurugram, India
 
 <div align="center">
 
-### 💻 Backend Frameworks
-<img src="https://skillicons.dev/icons?i=python,django,fastapi,flask" alt="Backend Stack" />
+### 💻 Languages & Frameworks
+<img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,js,html,css" alt="Languages and Frameworks" />
 
 <br>
 
-### 🗄️ Databases & Caching
+### 🗄️ Databases & Optimization
 <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,sqlite" alt="Databases" />
 
 <br>
 
-### ☁️ Cloud & DevOps
-<img src="https://skillicons.dev/icons?i=aws,docker,linux,git" alt="Cloud and DevOps" />
+### ☁️ Cloud & Dev Practices
+<img src="https://skillicons.dev/icons?i=aws,docker,linux,git,github" alt="Cloud and DevOps" />
 
 <br>
 
-### 🛠️ Development Tools
-<img src="https://skillicons.dev/icons?i=github,vscode,postman,pycharm" alt="Dev Tools" />
+### 🔐 API & Auth Tools
+<img src="https://skillicons.dev/icons?i=vscode,postman,pycharm" alt="API Tools" />
 
 <br>
 
@@ -119,8 +119,8 @@ Gurugram, India
 ## 💡 Current Interests & Exploration
 
 - 🏗️ **Backend Architecture**
-- 🤖 **Artificial Intelligence & RAG**
-- ⚙️ **System Design & Distributed Systems**
+- 🤖 **Artificial Intelligence & OCR Pipelines**
+- ⚙️ **System Design & Microservices**
 - ☁️ **Cloud Infrastructure & Kubernetes**
 - ⚡ **Performance Engineering**
 - 🚀 **Developer Productivity & AI Agents**
@@ -148,11 +148,11 @@ Rather than just building applications, I focus on engineering scalable backend 
 <tr>
 <td width="50%" valign="top">
 
-### 🧠 AI Document Intelligence
-Enterprise document understanding powered by Large Language Models.
+### 🧠 AI Document & OCR Intelligence
+Enterprise document understanding powered by Large Language Models and OCR.
 
 **Highlights:**
-Semantic Search • RAG Pipelines • LangChain • OpenAI API • ChromaDB • FastAPI
+Semantic Search • RAG Pipelines • LangChain • OpenAI API • OCR • FastAPI
 
 **Focus:** Intelligent knowledge retrieval with contextual AI responses.
 
@@ -187,7 +187,7 @@ Metadata Validation • Lyrics Analysis • AI Quality Checks • Workflow Autom
 Backend workflow system for digital media publishing.
 
 **Highlights:**
-State Management • Celery Workers • AWS S3 • Background Processing • Queue Management
+State Management • Microservices • Celery Workers • AWS S3 • Queue Management
 
 **Focus:** Managing complex publishing workflows at massive scale.
 
@@ -217,7 +217,7 @@ State Management • Celery Workers • AWS S3 • Background Processing • Que
 - Designed scalable backend architectures supporting **10K+ active users**.
 - Built **500+ production REST APIs** using Django & FastAPI.
 - Optimized PostgreSQL queries, reducing response time by **40%**.
-- Developed AI-powered internal tools using **OpenAI, LangChain & RAG**.
+- Developed AI-powered internal tools using **OpenAI, LangChain, OCR & RAG**.
 - Automated asynchronous workflows with **Celery, Redis & AWS S3**.
 
 ---
@@ -234,7 +234,7 @@ State Management • Celery Workers • AWS S3 • Background Processing • Que
 ## 📊 Technology Ecosystem & GitHub Stats
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,postgres,mysql,redis,docker,aws,linux,git,github,vscode,pycharm&perline=10" alt="Tech Ecosystem" />
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,js,html,css,postgres,mysql,redis,docker,aws,linux,git,github,vscode,pycharm,postman&perline=9" alt="Tech Ecosystem" />
 </div>
 
 <br>
@@ -261,29 +261,4 @@ State Management • Celery Workers • AWS S3 • Background Processing • Que
 **Python • Django • FastAPI • PostgreSQL • AWS • Docker • LangChain • OpenAI**
 
 </div>
-
-<!-- profile enhancement part 1 -->
-<!-- profile enhancement part 2 -->
-<!-- profile enhancement part 3 -->
-<!-- profile enhancement part 4 -->
-<!-- profile enhancement part 5 -->
-<!-- profile enhancement part 6 -->
-<!-- profile enhancement part 7 -->
-<!-- profile enhancement part 8 -->
-<!-- profile enhancement part 9 -->
-<!-- profile enhancement part 10 -->
-<!-- profile enhancement part 11 -->
-<!-- profile enhancement part 12 -->
-<!-- profile enhancement part 13 -->
-<!-- profile enhancement part 14 -->
-<!-- profile enhancement part 15 -->
-<!-- profile enhancement part 16 -->
-<!-- profile enhancement part 17 -->
-<!-- profile enhancement part 18 -->
-<!-- profile enhancement part 19 -->
-<!-- profile enhancement part 20 -->
-<!-- profile enhancement part 21 -->
-<!-- profile enhancement part 22 -->
-<!-- profile enhancement part 23 -->
-<!-- profile enhancement part 24 -->
-<!-- profile enhancement part 25 -->
+<!-- profile enhancement part 1 --><!-- profile enhancement part 2 --><!-- profile enhancement part 3 --><!-- profile enhancement part 4 --><!-- profile enhancement part 5 --><!-- profile enhancement part 6 --><!-- profile enhancement part 7 --><!-- profile enhancement part 8 --><!-- profile enhancement part 9 --><!-- profile enhancement part 10 --><!-- profile enhancement part 11 --><!-- profile enhancement part 12 --><!-- profile enhancement part 13 --><!-- profile enhancement part 14 --><!-- profile enhancement part 15 --><!-- profile enhancement part 16 --><!-- profile enhancement part 17 --><!-- profile enhancement part 18 --><!-- profile enhancement part 19 --><!-- profile enhancement part 20 --><!-- profile enhancement part 21 --><!-- profile enhancement part 22 --><!-- profile enhancement part 23 --><!-- profile enhancement part 24 --><!-- profile enhancement part 25 -->
