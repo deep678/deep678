@@ -403,7 +403,7 @@ System Design
 
 ---
 
-# Production Impact
+# 📊 Production Impact
 
 | Area | Result |
 |-------|--------|
