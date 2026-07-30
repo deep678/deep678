@@ -294,7 +294,7 @@ Managing complex publishing workflows at scale.
 
 ---
 
-# Open Source Repositories
+# 📂 Open Source Repositories
 
 ### 🌐 Web & Middleware
 - **[test_custom_middlewere](https://github.com/deep678/test_custom_middlewere)**: A project demonstrating the use and implementation of custom middleware.
