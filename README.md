@@ -169,7 +169,7 @@ Tools
 
 ---
 
-## Professional Highlights
+## 🏆 Professional Highlights
 
 | Achievement | Impact |
 |-------------|--------|
