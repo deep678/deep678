@@ -102,7 +102,7 @@ Cloud Infrastructure
 
 ---
 
-## Engineering Stack
+## 🛠️ Engineering Stack
 
 <table>
 
