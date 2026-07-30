@@ -58,7 +58,7 @@ Backend Software Engineer
 
 3+ Years
 
-### Location
+### 📍 Location
 
 Gurugram, India
 
