@@ -36,7 +36,7 @@
 
 ## About
 
-Backend Software Engineer with **3+ years of experience** building scalable backend systems, AI-powered applications, and cloud-native services.
+Backend Software Engineer with **3+ years of experience** building scalable backend systems, **AI-powered applications**, and cloud-native services.
 
 Experienced in designing high-performance REST APIs, distributed architectures, asynchronous processing pipelines, enterprise AI integrations, and production-ready backend solutions using Python.
 
