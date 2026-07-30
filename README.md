@@ -158,18 +158,14 @@ Tools
 
 ---
 
-## Current Interests
+## 💡 Current Interests
 
-```text
-Backend Architecture
-Artificial Intelligence
-Retrieval-Augmented Generation (RAG)
-System Design
-Distributed Systems
-Cloud Infrastructure
-Performance Engineering
-Developer Productivity
-```
+- 🏗️ **Backend Architecture**
+- 🤖 **Artificial Intelligence & RAG**
+- ⚙️ **System Design & Distributed Systems**
+- ☁️ **Cloud Infrastructure**
+- ⚡ **Performance Engineering**
+- 🚀 **Developer Productivity**
 
 ---
 
