@@ -373,7 +373,7 @@ Redis
 
 ---
 
-# Engineering Capabilities
+# 📈 Engineering Capabilities
 
 ```text
 Backend Architecture
