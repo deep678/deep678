@@ -490,12 +490,12 @@ System Design
 
 ---
 
-# Beyond Code
+# 🚀 Beyond Code
 
-- Building backend systems that scale reliably
-- Exploring practical AI solutions
-- Improving developer workflows through automation
-- Learning modern cloud-native architectures
+- 🏗️ Building backend systems that scale reliably
+- 🧠 Exploring practical AI solutions
+- ⚡ Improving developer workflows through automation
+- ☁️ Learning modern cloud-native architectures
 
 ---
 ---
