@@ -173,7 +173,7 @@ Tools
 
 | Achievement | Impact |
 |-------------|--------|
-| Production REST APIs | 25+ |
+| Production REST APIs | 500+ |
 | Active Concurrent Users | 10,000+ |
 | API Response Improvement | 40% Faster |
 | Database Load Reduction | 45% Lower |
@@ -407,7 +407,7 @@ System Design
 
 | Area | Result |
 |-------|--------|
-| REST APIs Developed | 25+ |
+| REST APIs Developed | 500+ |
 | Concurrent Users Supported | 10,000+ |
 | API Latency Improvement | 40% |
 | Database Performance | 45% Faster |
@@ -472,7 +472,7 @@ System Design
 **July 2023 - Present**
 
 - Designed scalable backend architectures supporting **10K+ active users**
-- Built **25+ production REST APIs** using Django & FastAPI
+- Built **500+ production REST APIs** using Django & FastAPI
 - Optimized PostgreSQL queries, reducing response time by **40%**
 - Developed AI-powered internal tools using **OpenAI, LangChain & RAG**
 - Automated asynchronous workflows with **Celery, Redis & AWS S3**
