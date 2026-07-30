@@ -2,9 +2,9 @@
 
 # Pradeep Yadav
 
-### Backend Software Engineer • AI Developer • Python Specialist
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Backend+Software+Engineer;AI+Developer;Python+Specialist" alt="Typing SVG" /></a>
 
-Designing scalable backend architectures, AI-powered systems and production-grade APIs.
+**Designing scalable backend architectures, AI-powered systems and production-grade APIs.**
 
 <br>
 
