@@ -54,7 +54,7 @@ Experienced in designing high-performance REST APIs, distributed architectures, 
 
 Backend Software Engineer
 
-### Experience
+### ⭐ Experience
 
 3+ Years
 
